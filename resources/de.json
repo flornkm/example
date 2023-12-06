@@ -1,5 +1,8 @@
 {
-	"$schema": "https://inlang.com/schema/inlang-message-format",
 	"title": "Meine tolle Todo-App Moin",
-	"description": "Dies ist eine einfache Todo-App, die Inlang in einer realen Anwendung zeigt."
+	"description": "Dies ist eine einfache Todo-App, die Inlang in einer realen Anwendung zeigt.",
+	"app": {
+		"today": "{date}"
+	},
+	"$schema": "https://inlang.com/schema/inlang-message-format"
 }
